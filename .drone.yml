@@ -1,3 +1,2 @@
-image: nginx
 script:
 - echo hello world
